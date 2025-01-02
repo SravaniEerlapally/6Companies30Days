@@ -10,7 +10,7 @@
                 1st we sort the array then we place 2 pointer one at the ith * at begin & jth* at end of array
                 now we'll add x to ith el & y to jth will be x=y we add to moves and 
                 move i++,j--,once we reach at middle all will be equal x+y=0 
-                tc:O(NlogN), SC:O(1)*/
+                tc:O(NlogN), SC:O(1)*/ 
  
 class Solution {
 public:
